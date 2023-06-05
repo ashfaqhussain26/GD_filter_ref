@@ -1,1 +1,34095 @@
-# GD_filter_ref
+# Zefyron Global Database Advance Search  Reference
+
+##### Zefyron is a comprehensive global database designed to facilitate the search for startups and investors. The database offers a range of filter options, enabling users to refine their searches based on specific criteria. These filters include location, allowing users to narrow down results by country, state, and city. Additionally, users can filter based on industry and subindustry, funding status, total funding in USD, estimated revenue, founding date (with options for "founded after" and "founded before"), and the number of employees.
+
+##### By utilizing the Zefyron global database, users can efficiently identify startups and investors that meet their specific requirements. Whether it's finding startups in a particular location or industry, evaluating their funding status or revenue estimates, or exploring companies founded within a specific time frame, Zefyron offers a powerful search tool to streamline the process and facilitate connections in the startup ecosystem.
+
+
+### Zefyron's global database offers an exhaustive list of filter options to enhance the search experience for startups and investors. These filters include:
+
+### Industry
+
+- Advertising
+  #### Advertising contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Digital Marketing
+  #### Digital Marketing contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Brand Marketing
+  #### Brand Marketing contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Advertising Platforms
+  #### Advertising Platforms contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Email Marketing
+  #### Email Marketing contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Broadcasting
+  #### Broadcasting contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Outdoor Advertising
+  #### Outdoor Advertising contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Ad Network
+  #### Ad Network contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Video Advertising
+  #### Video Advertising contain sub industries - 
+
+  - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- App Marketing
+  #### App Marketing contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Event Promotion
+  #### Event Promotion contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Affiliate Marketing
+  #### Affiliate Marketing contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Direct Marketing
+  #### Direct Marketing contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Local Advertising
+  #### Local Advertising contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Ad Targeting
+  #### Ad Targeting contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Ad Retargeting
+  #### Ad Retargeting contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Ad Server
+  #### Ad Server contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Cause Marketing
+  #### Cause Marketing contain sub industries - 
+
+    - Advertising
+  - Digital Marketing
+  - Brand Marketing
+  - Advertising Platforms
+  - Email Marketing
+  - Broadcasting
+  - Outdoor Advertising
+  - Ad Network
+  - Video Advertising
+  - App Marketing
+  - Event Promotion
+  - Affiliate Marketing
+  - Direct Marketing
+  - Local Advertising
+  - Ad Targeting
+  - Ad Retargeting
+  - Ad Server
+  - Cause Marketing
+- Aerospace
+  #### Aerospace contain sub industries - 
+
+  - Aerospace
+  - Air Transportation
+- Air Transportation
+  #### Air Transportation contain sub industries - 
+
+  - Aerospace
+  - Air Transportation
+
+
+
+- Agriculture
+  #### Agriculture contain sub industries - 
+
+  - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Farming
+  #### Farming contain sub industries - 
+
+  - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- AgTech
+  #### AgTech contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Organic Food
+  #### Organic Food contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Coffee
+  #### Coffee contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Organic
+  #### Organic contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Animal Feed
+  #### Animal Feed contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Farmers Market
+  #### Farmers Market contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Fruit
+  #### Fruit contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Brewing
+  #### Brewing contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- ISP
+  #### ISP contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Tea
+  #### Tea contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Horticulture
+  #### Horticulture contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Forestry
+  #### Forestry contain sub industries - 
+
+    - Agriculture
+  - Farming
+  - AgTech
+  - Organic Food
+  - Coffee
+  - Organic
+  - Animal Feed
+  - Farmers Market
+  - Fruit
+  - Brewing
+  - ISP
+  - Tea
+  - Horticulture
+  - Forestry
+- Analytics
+  #### Analytics contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Big Data
+  #### Big Data contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Predictive Analytics
+  #### Predictive Analytics contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Data Visualization
+  #### Data Visualization contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Natural Language Processing
+  #### Natural Language Processing contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Database
+  #### Database contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Data Integration
+  #### Data Integration contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Data Mining
+  #### Data Mining contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Data Center
+  #### Data Center contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Mining Technology
+  #### Mining Technology contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Price Comparison
+  #### Price Comparison contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Data Storage
+  #### Data Storage contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Quality Assurance
+  #### Quality Assurance contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Text Analytics
+  #### Text Analytics contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Warehousing
+  #### Warehousing contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Bioinformatics
+  #### Bioinformatics contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Spam Filtering
+  #### Spam Filtering contain sub industries - 
+
+    - Analytics
+  - Big Data
+  - Predictive Analytics
+  - Data Visualization
+  - Natural Language Processing
+  - Database
+  - Data Integration
+  - Data Mining
+  - Data Center
+  - Mining Technology
+  - Price Comparison
+  - Data Storage
+  - Quality Assurance
+  - Text Analytics
+  - Warehousing
+  - Bioinformatics
+  - Spam Filtering
+- Eyewear
+  #### Eyewear contain sub industries - 
+
+  - Eyewear
+- Artificial Intelligence
+  #### Artificial Intelligence contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Machine Learning
+  #### Machine Learning contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Cloud Computing
+  #### Cloud Computing contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Robotics
+  #### Robotics contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Cloud Security
+  #### Cloud Security contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Cloud Data Services
+  #### Cloud Data Services contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Identity Management
+  #### Identity Management contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Search Engine
+  #### Search Engine contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Cloud Management
+  #### Cloud Management contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Cloud Infrastructure
+  #### Cloud Infrastructure contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Fraud Detection
+  #### Fraud Detection contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Image Recognition
+  #### Image Recognition contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Intelligent Systems
+  #### Intelligent Systems contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Nanotechnology
+  #### Nanotechnology contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Semantic Search
+  #### Semantic Search contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Speech Recognition
+  #### Speech Recognition contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Cloud Storage
+  #### Cloud Storage contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Human Computer Interaction
+  #### Human Computer Interaction contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Translation Service
+  #### Translation Service contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Facial Recognition
+  #### Facial Recognition contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Intrusion Detection
+  #### Intrusion Detection contain sub industries - 
+
+    - Artificial Intelligence
+  - Machine Learning
+  - Robotics
+  - Identity Management
+  - Search Engine
+  - Fraud Detection
+  - Image Recognition
+  - Intelligent Systems
+  - Semantic Search
+  - Speech Recognition
+  - Cloud Storage
+  - Human Computer Interaction
+  - Translation Service
+  - Facial Recognition
+  - Intrusion Detection
+- Banking
+  #### Banking contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Venture Capital
+  #### Venture Capital contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Angel Investment
+  #### Angel Investment contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Credit
+  #### Credit contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Impact Investing
+  #### Impact Investing contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Lending
+  #### Lending contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Credit Cards
+  #### Credit Cards contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Commercial Lending
+  #### Commercial Lending contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Debit Cards
+  #### Debit Cards contain sub industries - 
+
+    - Banking
+  - Venture Capital
+  - Angel Investment
+  - Credit
+  - Impact Investing
+  - Lending
+  - Credit Cards
+  - Commercial Lending
+  - Debit Cards
+- Biotechnology
+  #### Biotechnology contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Life Science
+  #### Life Science contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Clinical Trials
+  #### Clinical Trials contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Genetics
+  #### Genetics contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Natural Resources
+  #### Natural Resources contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Dietary Supplements
+  #### Dietary Supplements contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Environmental Consulting
+  #### Environmental Consulting contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Neuroscience
+  #### Neuroscience contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Environmental Engineering
+  #### Environmental Engineering contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Aquaculture
+  #### Aquaculture contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- Humanitarian
+  #### Humanitarian contain sub industries - 
+
+    - Biotechnology
+  - Life Science
+  - Clinical Trials
+  - Genetics
+  - Natural Resources
+  - Dietary Supplements
+  - Environmental Consulting
+  - Neuroscience
+  - Environmental Engineering
+  - Aquaculture
+  - Humanitarian
+- B2B
+  #### B2B contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Product Design
+  #### Product Design contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Business Intelligence
+  #### Business Intelligence contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Business Development
+  #### Business Development contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Productivity Tools
+  #### Productivity Tools contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Business Information Systems
+  #### Business Information Systems contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- B2C
+  #### B2C contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Product Research
+  #### Product Research contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- Product Management
+  #### Product Management contain sub industries - 
+
+    - B2B
+  - Product Design
+  - Business Intelligence
+  - Business Development
+  - Productivity Tools
+  - Business Information Systems
+  - B2C
+  - Product Research
+  - Product Management
+- CleanTech
+  #### CleanTech contain sub industries - 
+
+    - CleanTech
+  - Clean Energy
+- Clean Energy
+  #### Clean Energy contain sub industries - 
+
+    - CleanTech
+  - Clean Energy
+- Telecommunications
+  #### Telecommunications contain sub industries - 
+
+    - Telecommunications
+  - Audio
+  - Information and Communications Technology (ICT)
+  - Email
+  - Unified Communications
+  - Wired Telecommunications
+- Audio
+  #### Audio contain sub industries - 
+
+    - Telecommunications
+  - Audio
+  - Information and Communications Technology (ICT)
+  - Email
+  - Unified Communications
+  - Wired Telecommunications
+- Information and Communications Technology (ICT)
+  #### Information and Communications Technology (ICT) contain sub industries - 
+
+    - Telecommunications
+  - Audio
+  - Information and Communications Technology (ICT)
+  - Email
+  - Unified Communications
+  - Wired Telecommunications
+- Email
+  #### Email contain sub industries - 
+
+    - Telecommunications
+  - Audio
+  - Information and Communications Technology (ICT)
+  - Email
+  - Unified Communications
+  - Wired Telecommunications
+- Unified Communications
+  #### Unified Communications contain sub industries - 
+
+    - Telecommunications
+  - Audio
+  - Information and Communications Technology (ICT)
+  - Email
+  - Unified Communications
+  - Wired Telecommunications
+- Wired Telecommunications
+  #### Wired Telecommunications contain sub industries - 
+
+    - Telecommunications
+  - Audio
+  - Information and Communications Technology (ICT)
+  - Email
+  - Unified Communications
+  - Wired Telecommunications
+- Construction
+  #### Construction contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Mining
+  #### Mining contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Infrastructure
+  #### Infrastructure contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Building Material
+  #### Building Material contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Mineral
+  #### Mineral contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Communications Infrastructure
+  #### Communications Infrastructure contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Civil Engineering
+  #### Civil Engineering contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Building Maintenance
+  #### Building Maintenance contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- CivicTech
+  #### CivicTech contain sub industries - 
+
+    - Construction
+  - Mining
+  - Infrastructure
+  - Building Material
+  - Mineral
+  - Communications Infrastructure
+  - Civil Engineering
+  - Building Maintenance
+  - CivicTech
+- Hospitality
+  #### Hospitality contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Fitness
+  #### Fitness contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- CRM
+  #### CRM contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Service Industry
+  #### Service Industry contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Goods
+  #### Consumer Goods contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- News
+  #### News contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Hotel
+  #### Hotel contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Printing
+  #### Printing contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Electronics
+  #### Consumer Electronics contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Communities
+  #### Communities contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Customer Service
+  #### Customer Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Restaurants
+  #### Restaurants contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Outsourcing
+  #### Outsourcing contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- SEM
+  #### SEM contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer
+  #### Consumer contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Location Based Services
+  #### Location Based Services contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Public Relations
+  #### Public Relations contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Art
+  #### Art contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Collaboration
+  #### Collaboration contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- PaaS
+  #### PaaS contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Crowdfunding
+  #### Crowdfunding contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Technical Support
+  #### Technical Support contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Document Management
+  #### Document Management contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Resorts
+  #### Resorts contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Reservations
+  #### Reservations contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Packaging Services
+  #### Packaging Services contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Digital Signage
+  #### Digital Signage contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Home Services
+  #### Home Services contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Museums and Historical Sites
+  #### Museums and Historical Sites contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Lending
+  #### Consumer Lending contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Subscription Service
+  #### Subscription Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Peer to Peer
+  #### Peer to Peer contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Career Planning
+  #### Career Planning contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Outdoors
+  #### Outdoors contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Software
+  #### Consumer Software contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Crowdsourcing
+  #### Crowdsourcing contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Child Care
+  #### Child Care contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Facility Management
+  #### Facility Management contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Parking
+  #### Parking contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Grocery
+  #### Grocery contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Coupons
+  #### Coupons contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Nursing and Residential Care
+  #### Nursing and Residential Care contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- CMS
+  #### CMS contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Reputation
+  #### Reputation contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Facilities Support Services
+  #### Facilities Support Services contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Personal Branding
+  #### Personal Branding contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Applications
+  #### Consumer Applications contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Online Auctions
+  #### Online Auctions contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Guides
+  #### Guides contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Catering
+  #### Catering contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Reviews
+  #### Consumer Reviews contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Call Center
+  #### Call Center contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Scheduling
+  #### Scheduling contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Retirement
+  #### Retirement contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Consumer Research
+  #### Consumer Research contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Personal Development
+  #### Personal Development contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Taxi Service
+  #### Taxi Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Flowers
+  #### Flowers contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Office Administration
+  #### Office Administration contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Railroad
+  #### Railroad contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Collaborative Consumption
+  #### Collaborative Consumption contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Micro Lending
+  #### Micro Lending contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Same Day Delivery
+  #### Same Day Delivery contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Fast-Moving Consumer Goods
+  #### Fast-Moving Consumer Goods contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- RFID
+  #### RFID contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Parks
+  #### Parks contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Laundry and Dry-cleaning
+  #### Laundry and Dry-cleaning contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Craft Beer
+  #### Craft Beer contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Social CRM
+  #### Social CRM contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Housekeeping Service
+  #### Housekeeping Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- College Recruiting
+  #### College Recruiting contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Sponsorship
+  #### Sponsorship contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- DIY
+  #### DIY contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Courier Service
+  #### Courier Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Livestock
+  #### Livestock contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Collectibles
+  #### Collectibles contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Nightclubs
+  #### Nightclubs contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Music Venues
+  #### Music Venues contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Music Label
+  #### Music Label contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Q&A
+  #### Q&A contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Credit Bureau
+  #### Credit Bureau contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Ad Exchange
+  #### Ad Exchange contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Windows
+  #### Windows contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Pollution Control
+  #### Pollution Control contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Hydroponics
+  #### Hydroponics contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Outpatient Care
+  #### Outpatient Care contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Independent Music
+  #### Independent Music contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Confectionery
+  #### Confectionery contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Recipes
+  #### Recipes contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Gift Exchange
+  #### Gift Exchange contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Collection Agency
+  #### Collection Agency contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Celebrity
+  #### Celebrity contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Theatre
+  #### Theatre contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Skiing
+  #### Skiing contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Freemium
+  #### Freemium contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Archiving Service
+  #### Archiving Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Shipping Broker
+  #### Shipping Broker contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Field-Programmable Gate Array (FPGA)
+  #### Field-Programmable Gate Array (FPGA) contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Multi-level Marketing
+  #### Multi-level Marketing contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Ports and Harbors
+  #### Ports and Harbors contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Janitorial Service
+  #### Janitorial Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Homeless Shelter
+  #### Homeless Shelter contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Foundries
+  #### Foundries contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Limousine Service
+  #### Limousine Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Equestrian
+  #### Equestrian contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Surfing
+  #### Surfing contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Extermination Service
+  #### Extermination Service contain sub industries - 
+
+    - SaaS
+  - Hospitality
+  - Fitness
+  - CRM
+  - Service Industry
+  - Consumer Goods
+  - News
+  - Hotel
+  - Printing
+  - Consumer Electronics
+  - Communities
+  - Customer Service
+  - Restaurants
+  - Outsourcing
+  - SEM
+  - Consumer
+  - Location Based Services
+  - Public Relations
+  - Art
+  - Collaboration
+  - PaaS
+  - Crowdfunding
+  - Technical Support
+  - Document Management
+  - Resorts
+  - Reservations
+  - Packaging Services
+  - Digital Signage
+  - Home Services
+  - Museums and Historical Sites
+  - Consumer Lending
+  - Subscription Service
+  - Peer to Peer
+  - Career Planning
+  - Outdoors
+  - Consumer Software
+  - Crowdsourcing
+  - Child Care
+  - Facility Management
+  - Parking
+  - Grocery
+  - Coupons
+  - Nursing and Residential Care
+  - CMS
+  - Reputation
+  - Facilities Support Services
+  - Personal Branding
+  - Consumer Applications
+  - Online Auctions
+  - Guides
+  - Catering
+  - Consumer Reviews
+  - Call Center
+  - Scheduling
+  - Retirement
+  - Consumer Research
+  - Personal Development
+  - Taxi Service
+  - Flowers
+  - Office Administration
+  - Railroad
+  - Collaborative Consumption
+  - Micro Lending
+  - Same Day Delivery
+  - Fast-Moving Consumer Goods
+  - RFID
+  - Parks
+  - Laundry and Dry-cleaning
+  - Craft Beer
+  - Social CRM
+  - Housekeeping Service
+  - College Recruiting
+  - Sponsorship
+  - DIY
+  - Courier Service
+  - Livestock
+  - Collectibles
+  - Nightclubs
+  - Music Venues
+  - Music Label
+  - Q&A
+  - Credit Bureau
+  - Ad Exchange
+  - Windows
+  - Pollution Control
+  - Hydroponics
+  - Outpatient Care
+  - Independent Music
+  - Confectionery
+  - Recipes
+  - Gift Exchange
+  - Collection Agency
+  - Celebrity
+  - Theatre
+  - Skiing
+  - Freemium
+  - Archiving Service
+  - Shipping Broker
+  - Field-Programmable Gate Array (FPGA)
+  - Multi-level Marketing
+  - Ports and Harbors
+  - Janitorial Service
+  - Homeless Shelter
+  - Foundries
+  - Limousine Service
+  - Equestrian
+  - Surfing
+  - Extermination Service
+- Beauty
+  #### Beauty contain sub industries - 
+
+    - Beauty
+  - Cosmetics
+  - Cosmetic Surgery
+- Cosmetics
+  #### Cosmetics contain sub industries - 
+
+    - Beauty
+  - Cosmetics
+  - Cosmetic Surgery
+- Cosmetic Surgery
+  #### Cosmetic Surgery contain sub industries - 
+
+    - Beauty
+  - Cosmetics
+  - Cosmetic Surgery
+- Cryptocurrency
+  #### Cryptocurrency contain sub industries - 
+
+    - Cryptocurrency
+  - Bitcoin
+  - Ethereum
+  - Virtual Currency
+- Bitcoin
+  #### Bitcoin contain sub industries - 
+
+    - Cryptocurrency
+  - Bitcoin
+  - Ethereum
+  - Virtual Currency
+- Ethereum
+  #### Ethereum contain sub industries - 
+
+    - Cryptocurrency
+  - Bitcoin
+  - Ethereum
+  - Virtual Currency
+- Virtual Currency
+  #### Virtual Currency contain sub industries - 
+
+    - Cryptocurrency
+  - Bitcoin
+  - Ethereum
+  - Virtual Currency
+- E-Commerce
+  #### E-Commerce contain sub industries - 
+
+    - E-Commerce
+  - Retail
+  - E-Commerce Platforms
+  - Commercial
+- Retail
+  #### Retail contain sub industries - 
+
+    - E-Commerce
+  - Retail
+  - E-Commerce Platforms
+  - Commercial
+- E-Commerce Platforms
+  #### E-Commerce Platforms contain sub industries - 
+
+    - E-Commerce
+  - Retail
+  - E-Commerce Platforms
+  - Commercial
+- Commercial
+  #### Commercial contain sub industries - 
+
+    - E-Commerce
+  - Retail
+  - E-Commerce Platforms
+  - Commercial
+- Education
+  #### Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- EdTech
+  #### EdTech contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- E-Learning
+  #### E-Learning contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Higher Education
+  #### Higher Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Language Learning
+  #### Language Learning contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- EBooks
+  #### EBooks contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Knowledge Management
+  #### Knowledge Management contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Tutoring
+  #### Tutoring contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Universities
+  #### Universities contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Video Conferencing
+  #### Video Conferencing contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- STEM Education
+  #### STEM Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Skill Assessment
+  #### Skill Assessment contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Primary Education
+  #### Primary Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Secondary Education
+  #### Secondary Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Meeting Software
+  #### Meeting Software contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Ediscovery
+  #### Ediscovery contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Edutainment
+  #### Edutainment contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Continuing Education
+  #### Continuing Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Vocational Education
+  #### Vocational Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Music Education
+  #### Music Education contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- MOOC
+  #### MOOC contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Textbook
+  #### Textbook contain sub industries - 
+
+    - Education
+  - EdTech
+  - E-Learning
+  - Higher Education
+  - Language Learning
+  - EBooks
+  - Knowledge Management
+  - Tutoring
+  - Universities
+  - Video Conferencing
+  - STEM Education
+  - Skill Assessment
+  - Primary Education
+  - Secondary Education
+  - Meeting Software
+  - Ediscovery
+  - Edutainment
+  - Vocational Education
+  - Music Education
+  - Continuing Education
+  - MOOC
+  - Textbook
+- Mobile Apps
+  #### Mobile Apps contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Mobile
+  #### Mobile contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Electronics
+  #### Electronics contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Electrical Distribution
+  #### Electrical Distribution contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Mobile Devices
+  #### Mobile Devices contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Lighting
+  #### Lighting contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Network Hardware
+  #### Network Hardware contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Electronic Health Record (EHR)
+  #### Electronic Health Record (EHR) contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Electronic Design Automation (EDA)
+  #### Electronic Design Automation (EDA) contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Windows Phone
+  #### Windows Phone contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Xbox
+  #### Xbox contain sub industries - 
+
+    - Mobile Apps
+  - Mobile
+  - Electronics
+  - Electrical Distribution
+  - Mobile Devices
+  - Lighting
+  - Network Hardware
+  - Electronic Health Record (EHR)
+  - Electronic Design Automation (EDA)
+  - Windows Phone
+  - Xbox
+- Energy
+  #### Energy contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Renewable Energy
+  #### Renewable Energy contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Oil and Gas
+  #### Oil and Gas contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Solar
+  #### Solar contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Water
+  #### Water contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Sustainability
+  #### Sustainability contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Chemical
+  #### Chemical contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Energy Efficiency
+  #### Energy Efficiency contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Energy Management
+  #### Energy Management contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Battery
+  #### Battery contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Waste Management
+  #### Waste Management contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Wind Energy
+  #### Wind Energy contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Energy Storage
+  #### Energy Storage contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Biomass Energy
+  #### Biomass Energy contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Power Grid
+  #### Power Grid contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Fuel
+  #### Fuel contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Chemical Engineering
+  #### Chemical Engineering contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Fuel Cell
+  #### Fuel Cell contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Nuclear
+  #### Nuclear contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Fossil Fuels
+  #### Fossil Fuels contain sub industries - 
+
+    - Energy
+  - Renewable Energy
+  - Oil and Gas
+  - Solar
+  - Water
+  - Sustainability
+  - Chemical
+  - Energy Efficiency
+  - Energy Management
+  - Battery
+  - Waste Management
+  - Wind Energy
+  - Energy Storage
+  - Biomass Energy
+  - Fuel
+  - Chemical Engineering
+  - Fuel Cell
+  - Nuclear
+  - Fossil Fuels
+  - Power Grid
+- Enterprise Resource Planning (ERP)
+  #### Enterprise Resource Planning (ERP) contain sub industries - 
+
+    - Enterprise Resource Planning (ERP)
+  - Enterprise Applications
+  - Enterprise
+- Enterprise Applications
+  #### Enterprise Applications contain sub industries - 
+
+    - Enterprise Resource Planning (ERP)
+  - Enterprise Applications
+  - Enterprise
+- Enterprise
+  #### Enterprise contain sub industries - 
+
+    - Enterprise Resource Planning (ERP)
+  - Enterprise Applications
+  - Enterprise
+- Gaming
+  #### Gaming contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Digital Media
+  #### Digital Media contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Media and Entertainment
+  #### Media and Entertainment contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Video
+  #### Video contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Events
+  #### Events contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Content
+  #### Content contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Video Games
+  #### Video Games contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Virtual Reality
+  #### Virtual Reality contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Music
+  #### Music contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Event Management
+  #### Event Management contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Photography
+  #### Photography contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Video Streaming
+  #### Video Streaming contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Creative Agency
+  #### Creative Agency contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Digital Entertainment
+  #### Digital Entertainment contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Content Marketing
+  #### Content Marketing contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Content Creators
+  #### Content Creators contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Blogging Platforms
+  #### Blogging Platforms contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- eSports
+  #### eSports contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- PC Games
+  #### PC Games contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Gamification
+  #### Gamification contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Gambling
+  #### Gambling contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Film Production
+  #### Film Production contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Film
+  #### Film contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Video Editing
+  #### Video Editing contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- TV
+  #### TV contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- File Sharing
+  #### File Sharing contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Journalism
+  #### Journalism contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Video on Demand
+  #### Video on Demand contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Content Delivery Network
+  #### Content Delivery Network contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Content Discovery
+  #### Content Discovery contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Amusement Park and Arcade
+  #### Amusement Park and Arcade contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Fantasy Sports
+  #### Fantasy Sports contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- TV Production
+  #### TV Production contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Music Streaming
+  #### Music Streaming contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Film Distribution
+  #### Film Distribution contain sub industries - 
+
+    - Gaming
+  - Digital Media
+  - Media and Entertainment
+  - Video
+  - Events
+  - Content
+  - Video Games
+  - Virtual Reality
+  - Music
+  - Event Management
+  - Photography
+  - Video Streaming
+  - Creative Agency
+  - Digital Entertainment
+  - Content Marketing
+  - Content Creators
+  - Blogging Platforms
+  - eSports
+  - PC Games
+  - Gamification
+  - Gambling
+  - Film Production
+  - Film
+  - Video Editing
+  - TV
+  - File Sharing
+  - Journalism
+  - Video on Demand
+  - Content Delivery Network
+  - Content Discovery
+  - Amusement Park and Arcade
+  - Fantasy Sports
+  - TV Production
+  - Music Streaming
+  - Film Distribution
+  - Motion Capture
+  - Podcast
+  - Nightlife
+  - Concerts
+  - Musical Instruments
+  - In-Flight Entertainment
+- Fashion
+  #### Fashion contain sub industries - 
+
+    - Fashion
+  - Wearables
+  - Textiles
+  - Shoes
+  - Lingerie
+- Wearables
+  #### Wearables contain sub industries - 
+
+    - Fashion
+  - Wearables
+  - Textiles
+  - Shoes
+  - Lingerie
+- Textiles
+  #### Textiles contain sub industries - 
+
+    - Fashion
+  - Wearables
+  - Textiles
+  - Shoes
+  - Lingerie
+- Shoes
+  #### Shoes contain sub industries - 
+
+    - Fashion
+  - Wearables
+  - Textiles
+  - Shoes
+  - Lingerie
+- Lingerie
+  #### Lingerie contain sub industries - 
+
+    - Fashion
+  - Wearables
+  - Textiles
+  - Shoes
+  - Lingerie
+- Personal Finance
+  #### Personal Finance contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Hedge Funds
+  #### Hedge Funds contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Financial Services
+  #### Financial Services contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- FinTech
+  #### FinTech contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Finance
+  #### Finance contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Payments
+  #### Payments contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Accounting
+  #### Accounting contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Mobile Payments
+  #### Mobile Payments contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Financial Exchanges
+  #### Financial Exchanges contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Billing
+  #### Billing contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Transaction Processing
+  #### Transaction Processing contain sub industries - 
+
+    - Personal Finance
+  - Hedge Funds
+  - Financial Services
+  - FinTech
+  - Finance
+  - Financial Exchanges
+  - Payments
+  - Accounting
+  - Mobile Payments
+  - Billing
+  - Transaction Processing
+- Food and Beverage
+  #### Food and Beverage contain sub industries - 
+
+    - Food and Beverage
+  - Wine And Spirits
+  - Snack Food
+- Wine And Spirits
+  #### Wine And Spirits contain sub industries - 
+
+    - Food and Beverage
+  - Wine And Spirits
+  - Snack Food
+- Snack Food
+  #### Snack Food contain sub industries - 
+
+    - Food and Beverage
+  - Wine And Spirits
+  - Snack Food
+- Food Processing
+  #### Food Processing contain sub industries - 
+
+    - Food Processing
+  - Cooking
+  - Bakery
+  - Winery
+- Cooking
+  #### Cooking contain sub industries - 
+
+    - Food Processing
+  - Cooking
+  - Bakery
+  - Winery
+- Bakery
+  #### Bakery contain sub industries - 
+
+    - Food Processing
+  - Cooking
+  - Bakery
+  - Winery
+- Winery
+  #### Winery contain sub industries - 
+
+    - Food Processing
+  - Cooking
+  - Bakery
+  - Winery
+- Sports
+  #### Sports contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Online Games
+  #### Online Games contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Sporting Goods
+  #### Sporting Goods contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Casual Games
+  #### Casual Games contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Cycling
+  #### Cycling contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Golf
+  #### Golf contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Boating
+  #### Boating contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Console Games
+  #### Console Games contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- MMO Games
+  #### MMO Games contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Indoor Positioning
+  #### Indoor Positioning contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Soccer
+  #### Soccer contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Serious Games
+  #### Serious Games contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Racing
+  #### Racing contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Diving
+  #### Diving contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Swimming
+  #### Swimming contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- American Football
+  #### American Football contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Charter Schools
+  #### Charter Schools contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Playstation
+  #### Playstation contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Millennials
+  #### Millennials contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Tennis
+  #### Tennis contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Sailing
+  #### Sailing contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Basketball
+  #### Basketball contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Nintendo
+  #### Nintendo contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Volley Ball
+  #### Volley Ball contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Baseball
+  #### Baseball contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Cricket
+  #### Cricket contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Hockey
+  #### Hockey contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Rugby
+  #### Rugby contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Table Tennis
+  #### Table Tennis contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- Ultimate Frisbee
+  #### Ultimate Frisbee contain sub industries - 
+
+    - Sports
+  - Online Games
+  - Sporting Goods
+  - Casual Games
+  - Cycling
+  - Golf
+  - Boating
+  - Console Games
+  - MMO Games
+  - Indoor Positioning
+  - Soccer
+  - Serious Games
+  - Racing
+  - Diving
+  - Swimming
+  - American Football
+  - Charter Schools
+  - Playstation
+  - Millennials
+  - Tennis
+  - Sailing
+  - Basketball
+  - Nintendo
+  - Volley Ball
+  - Baseball
+  - Cricket
+  - Hockey
+  - Rugby
+  - Table Tennis
+  - Ultimate Frisbee
+- GreenTech
+  #### GreenTech contain sub industries - 
+
+    - GreenTech
+  - Paper Manufacturing
+  - Biofuel
+  - Green Building
+  - Green Consumer Goods
+- Paper Manufacturing
+  #### Paper Manufacturing contain sub industries - 
+
+    - GreenTech
+  - Paper Manufacturing
+  - Biofuel
+  - Green Building
+  - Green Consumer Goods
+- Biofuel
+  #### Biofuel contain sub industries - 
+
+    - GreenTech
+  - Paper Manufacturing
+  - Biofuel
+  - Green Building
+  - Green Consumer Goods
+- Green Building
+  #### Green Building contain sub industries - 
+
+    - GreenTech
+  - Paper Manufacturing
+  - Biofuel
+  - Green Building
+  - Green Consumer Goods
+- Green Consumer Goods
+  #### Green Consumer Goods contain sub industries - 
+
+    - GreenTech
+  - Paper Manufacturing
+  - Biofuel
+  - Green Building
+  - Green Consumer Goods
+- Jewelry
+  #### Jewelry contain sub industries - 
+
+    - Jewelry
+  - Handmade
+- Handmade
+  #### Handmade contain sub industries - 
+
+    - Jewelry
+  - Handmade
+- Health Care
+  #### Health Care contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Medical
+  #### Medical contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Medical Device
+  #### Medical Device contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Hospital
+  #### Hospital contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Nutrition
+  #### Nutrition contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Personal Health
+  #### Personal Health contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Health Insurance
+  #### Health Insurance contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- mHealth
+  #### mHealth contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Incubators
+  #### Incubators contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Dental
+  #### Dental contain sub industries - 
+
+    - Health Care
+  - Medical
+  - Medical Device
+  - Hospital
+  - Nutrition
+  - Personal Health
+  - Health Insurance
+  - mHealth
+  - Incubators
+  - Dental
+- Interior Design
+  #### Interior Design contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Furniture
+  #### Furniture contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Home Decor
+  #### Home Decor contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Home Health Care
+  #### Home Health Care contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Home Improvement
+  #### Home Improvement contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Home Renovation
+  #### Home Renovation contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Home and Garden
+  #### Home and Garden contain sub industries - 
+
+    - Interior Design
+  - Furniture
+  - Home Decor
+  - Home Health Care
+  - Home Improvement
+  - Home Renovation
+  - Home and Garden
+- Human Resources
+  #### Human Resources contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Recruiting
+  #### Recruiting contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Staffing Agency
+  #### Staffing Agency contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Employment
+  #### Employment contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Corporate Training
+  #### Corporate Training contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Employee Benefits
+  #### Employee Benefits contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Coworking
+  #### Coworking contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Procurement
+  #### Procurement contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Social Recruiting
+  #### Social Recruiting contain sub industries - 
+
+    - Human Resources
+  - Recruiting
+  - Staffing Agency
+  - Employment
+  - Corporate Training
+  - Employee Benefits
+  - Coworking
+  - Procurement
+  - Social Recruiting
+- Insurance
+  #### Insurance contain sub industries - 
+
+    - Insurance
+  - InsurTech
+  - Auto Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Property Insurance
+- InsurTech
+  #### InsurTech contain sub industries - 
+
+    - Insurance
+  - InsurTech
+  - Auto Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Property Insurance
+- Auto Insurance
+  #### Auto Insurance contain sub industries - 
+
+    - Insurance
+  - InsurTech
+  - Auto Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Property Insurance
+- Life Insurance
+  #### Life Insurance contain sub industries - 
+
+    - Insurance
+  - InsurTech
+  - Auto Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Property Insurance
+- Commercial Insurance
+  #### Commercial Insurance contain sub industries - 
+
+    - Insurance
+  - InsurTech
+  - Auto Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Property Insurance
+- Property Insurance
+  #### Property Insurance contain sub industries - 
+
+    - Insurance
+  - InsurTech
+  - Auto Insurance
+  - Life Insurance
+  - Commercial Insurance
+  - Property Insurance
+- Apps
+  #### Apps contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Enterprise Software
+  #### Enterprise Software contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Computer
+  #### Computer contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Computer Vision
+  #### Computer Vision contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Embedded Systems
+  #### Embedded Systems contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Embedded Software
+  #### Embedded Software contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- SaaS
+  #### SaaS contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Software
+  #### Software contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Information Technology
+  #### Information Technology contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Internet
+  #### Internet contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Information Services
+  #### Information Services contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- SEO
+  #### SEO contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Internet of Things
+  #### Internet of Things contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Blockchain
+  #### Blockchain contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Training
+  #### Training contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- iOS
+  #### iOS contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Professional Services
+  #### Professional Services contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Logistics
+  #### Logistics contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Android
+  #### Android contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Animation
+  #### Animation contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Software Engineering
+  #### Software Engineering contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Project Management
+  #### Project Management contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- 3D Technology
+  #### 3D Technology contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Messaging
+  #### Messaging contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- IT Management
+  #### IT Management contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Wireless
+  #### Wireless contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- IT Infrastructure
+  #### IT Infrastructure contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- 3D Printing
+  #### 3D Printing contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Ticketing
+  #### Ticketing contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Lead Generation
+  #### Lead Generation contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Innovation Management
+  #### Innovation Management contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Smart Cities
+  #### Smart Cities contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Sharing Economy
+  #### Sharing Economy contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Management Information Systems
+  #### Management Information Systems contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Professional Networking
+  #### Professional Networking contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Toys
+  #### Toys contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Navigation
+  #### Navigation contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- SMS
+  #### SMS contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Mapping Services
+  #### Mapping Services contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- GPS
+  #### GPS contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- IaaS
+  #### IaaS contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Data Center Automation
+  #### Data Center Automation contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- E-Signature
+  #### E-Signature contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Marine Technology
+  #### Marine Technology contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Lead Management
+  #### Lead Management contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Drone Management
+  #### Drone Management contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Private Cloud
+  #### Private Cloud contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Laser
+  #### Laser contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Virtual Workforce
+  #### Virtual Workforce contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Operating Systems
+  #### Operating Systems contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Communication Hardware
+  #### Communication Hardware contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Debt Collections
+  #### Debt Collections contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Video Chat
+  #### Video Chat contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Usability Testing
+  #### Usability Testing contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Contact Management
+  #### Contact Management contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Domain Registrar
+  #### Domain Registrar contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Online Forums
+  #### Online Forums contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Visual Search
+  #### Visual Search contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Quantum Computing
+  #### Quantum Computing contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- QR Codes
+  #### QR Codes contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Browser Extensions
+  #### Browser Extensions contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- A/B Testing
+  #### A/B Testing contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Flash Storage
+  #### Flash Storage contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Field Support
+  #### Field Support contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Self-Storage
+  #### Self-Storage contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Content Syndication
+  #### Content Syndication contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Audiobooks
+  #### Audiobooks contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Virtual World
+  #### Virtual World contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Virtual Goods
+  #### Virtual Goods contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Presentation Software
+  #### Presentation Software contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- macOS
+  #### macOS contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Google Glass
+  #### Google Glass contain sub industries - 
+
+    - Software
+  - Apps
+  - Enterprise Software
+  - Computer
+  - Computer Vision
+  - Embedded Systems
+  - Embedded Software
+  - Information Technology
+  - Internet
+  - Information Services
+  - SEO
+  - Internet of Things
+  - Blockchain
+  - Training
+  - iOS
+  - Professional Services
+  - Logistics
+  - Android
+  - Animation
+  - Software Engineering
+  - Project Management
+  - 3D Technology
+  - Messaging
+  - IT Management
+  - Wireless
+  - IT Infrastructure
+  - 3D Printing
+  - Ticketing
+  - Lead Generation
+  - Innovation Management
+  - Smart Cities
+  - Sharing Economy
+  - Management Information Systems
+  - Professional Networking
+  - Toys
+  - Navigation
+  - SMS
+  - Mapping Services
+  - GPS
+  - IaaS
+  - Data Center Automation
+  - E-Signature
+  - Marine Technology
+  - Lead Management
+  - Drone Management
+  - Private Cloud
+  - Laser
+  - Virtual Workforce
+  - Operating Systems
+  - Communication Hardware
+  - Debt Collections
+  - Video Chat
+  - Usability Testing
+  - Contact Management
+  - Domain Registrar
+  - Online Forums
+  - Visual Search
+  - Quantum Computing
+  - QR Codes
+  - Browser Extensions
+  - A/B Testing
+  - Flash Storage
+  - Field Support
+  - Self-Storage
+  - Content Syndication
+  - Audiobooks
+  - Virtual World
+  - Virtual Goods
+  - Presentation Software
+  - macOS
+  - Google Glass
+  - Cloud Security
+  - Cloud Data Services
+  - Cloud Computing
+  - Cloud Management
+  - Cloud Infrastructure
+  - Nanotechnology
+- Legal
+  #### Legal contain sub industries - 
+
+    - Legal
+  - Law Enforcement
+  - Legal Tech
+- Law Enforcement
+  #### Law Enforcement contain sub industries - 
+
+    - Legal
+  - Law Enforcement
+  - Legal Tech
+- Legal Tech
+  #### Legal Tech contain sub industries - 
+
+    - Legal
+  - Law Enforcement
+  - Legal Tech
+- Manufacturing
+  #### Manufacturing contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Industrial
+  #### Industrial contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Hardware
+  #### Hardware contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Industrial Automation
+  #### Industrial Automation contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Industrial Manufacturing
+  #### Industrial Manufacturing contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Machinery Manufacturing
+  #### Machinery Manufacturing contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Sensor
+  #### Sensor contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Industrial Engineering
+  #### Industrial Engineering contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Drones
+  #### Drones contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Semiconductor
+  #### Semiconductor contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Mechanical Engineering
+  #### Mechanical Engineering contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Biometrics
+  #### Biometrics contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Advanced Materials
+  #### Advanced Materials contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Industrial Design
+  #### Industrial Design contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Mechanical Design
+  #### Mechanical Design contain sub industries - 
+
+    - Manufacturing
+  - Industrial
+  - Hardware
+  - Industrial Automation
+  - Industrial Manufacturing
+  - Machinery Manufacturing
+  - Sensor
+  - Industrial Engineering
+  - Drones
+  - Semiconductor
+  - Mechanical Engineering
+  - Biometrics
+  - Advanced Materials
+  - Industrial Design
+  - Mechanical Design
+- Supply Chain Management
+  #### Supply Chain Management contain sub industries - 
+
+    - Supply Chain Management
+  - Property Management
+  - Task Management
+- Property Management
+  #### Property Management contain sub industries - 
+
+    - Supply Chain Management
+  - Property Management
+  - Task Management
+- Task Management
+  #### Task Management contain sub industries - 
+
+    - Supply Chain Management
+  - Property Management
+  - Task Management
+- Plastics and Rubber Manufacturing
+  #### Plastics and Rubber Manufacturing contain sub industries - 
+
+    - Plastics and Rubber Manufacturing
+- Health Diagnostics
+  #### Health Diagnostics contain sub industries - 
+
+    - Health Diagnostics
+  - Alternative Medicine
+  - Diabetes
+  - Emergency Medicine
+  - Fertility
+  - First Aid
+- Alternative Medicine
+  #### Alternative Medicine contain sub industries - 
+
+    - Health Diagnostics
+  - Alternative Medicine
+  - Diabetes
+  - Emergency Medicine
+  - Fertility
+  - First Aid
+- Diabetes
+  #### Diabetes contain sub industries - 
+
+    - Health Diagnostics
+  - Alternative Medicine
+  - Diabetes
+  - Emergency Medicine
+  - Fertility
+  - First Aid
+- Emergency Medicine
+  #### Emergency Medicine contain sub industries - 
+
+    - Health Diagnostics
+  - Alternative Medicine
+  - Diabetes
+  - Emergency Medicine
+  - Fertility
+  - First Aid
+- Fertility
+  #### Fertility contain sub industries - 
+
+    - Health Diagnostics
+  - Alternative Medicine
+  - Diabetes
+  - Emergency Medicine
+  - Fertility
+  - First Aid
+- First Aid
+  #### First Aid contain sub industries - 
+
+    - Health Diagnostics
+  - Alternative Medicine
+  - Diabetes
+  - Emergency Medicine
+  - Fertility
+  - First Aid
+- Precious Metals
+  #### Precious Metals contain sub industries - 
+
+    - Precious Metals
+- Automotive
+  #### Automotive contain sub industries - 
+
+    - Automotive
+  - Transportation
+  - Electric Vehicle
+  - Autonomous Vehicles
+  - Shipping
+  - Recreational Vehicles
+- Transportation
+  #### Transportation contain sub industries - 
+
+    - Automotive
+  - Transportation
+  - Electric Vehicle
+  - Autonomous Vehicles
+  - Shipping
+  - Recreational Vehicles
+- Electric Vehicle
+  #### Electric Vehicle contain sub industries - 
+
+    - Automotive
+  - Transportation
+  - Electric Vehicle
+  - Autonomous Vehicles
+  - Shipping
+  - Recreational Vehicles
+- Autonomous Vehicles
+  #### Autonomous Vehicles contain sub industries - 
+
+    - Automotive
+  - Transportation
+  - Electric Vehicle
+  - Autonomous Vehicles
+  - Shipping
+  - Recreational Vehicles
+- Shipping
+  #### Shipping contain sub industries - 
+
+    - Automotive
+  - Transportation
+  - Electric Vehicle
+  - Autonomous Vehicles
+  - Shipping
+  - Recreational Vehicles
+- Recreational Vehicles
+  #### Recreational Vehicles contain sub industries - 
+
+    - Automotive
+  - Transportation
+  - Electric Vehicle
+  - Autonomous Vehicles
+  - Shipping
+  - Recreational Vehicles
+- Wellness
+  #### Wellness contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Leisure
+  #### Leisure contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Lifestyle
+  #### Lifestyle contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Asset Management
+  #### Asset Management contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Non Profit
+  #### Non Profit contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Compliance
+  #### Compliance contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Architecture
+  #### Architecture contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Real Time
+  #### Real Time contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Children
+  #### Children contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Funding Platform
+  #### Funding Platform contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Women's
+  #### Women's contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Government
+  #### Government contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Personalization
+  #### Personalization contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Cannabis
+  #### Cannabis contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Casino
+  #### Casino contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Local
+  #### Local contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Association
+  #### Association contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Loyalty Programs
+  #### Loyalty Programs contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Gift
+  #### Gift contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Elder Care
+  #### Elder Care contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Fleet Management
+  #### Fleet Management contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Test and Measurement
+  #### Test and Measurement contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- VoIP
+  #### VoIP contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Recycling
+  #### Recycling contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Wedding
+  #### Wedding contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Water Purification
+  #### Water Purification contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Photo Sharing
+  #### Photo Sharing contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Geospatial
+  #### Geospatial contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- CAD
+  #### CAD contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Gift Card
+  #### Gift Card contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Recreation
+  #### Recreation contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- GovTech
+  #### GovTech contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Baby
+  #### Baby contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Classifieds
+  #### Classifieds contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Parenting
+  #### Parenting contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Photo Editing
+  #### Photo Editing contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Freelance
+  #### Freelance contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Charity
+  #### Charity contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Rehabilitation
+  #### Rehabilitation contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Men's
+  #### Men's contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Family
+  #### Family contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Assistive Technology
+  #### Assistive Technology contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Dating
+  #### Dating contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Freight Service
+  #### Freight Service contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Auctions
+  #### Auctions contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Elderly
+  #### Elderly contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Assisted Living
+  #### Assisted Living contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Internet Radio
+  #### Internet Radio contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Performing Arts
+  #### Performing Arts contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Comics
+  #### Comics contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Politics
+  #### Politics contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Product Search
+  #### Product Search contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Document Preparation
+  #### Document Preparation contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Franchise
+  #### Franchise contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- SNS
+  #### SNS contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Optical Communication
+  #### Optical Communication contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- NFC
+  #### NFC contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Made to Order
+  #### Made to Order contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Landscaping
+  #### Landscaping contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- DSP
+  #### DSP contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Vending and Concessions
+  #### Vending and Concessions contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- DRM
+  #### DRM contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- GPU
+  #### GPU contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Religion
+  #### Religion contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Young Adults
+  #### Young Adults contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Quantified Self
+  #### Quantified Self contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Tobacco
+  #### Tobacco contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Seafood
+  #### Seafood contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Timber
+  #### Timber contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Timeshare
+  #### Timeshare contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Funerals
+  #### Funerals contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Hunting
+  #### Hunting contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- LGBT
+  #### LGBT contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Contests
+  #### Contests contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Adult
+  #### Adult contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Gift Registry
+  #### Gift Registry contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Generation Y
+  #### Generation Y contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Generation Z
+  #### Generation Z contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Vertical Search
+  #### Vertical Search contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Alumni
+  #### Alumni contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Sex Tech
+  #### Sex Tech contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Distillery
+  #### Distillery contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Sex Industry
+  #### Sex Industry contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Underserved Children
+  #### Underserved Children contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Teenagers
+  #### Teenagers contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- RISC
+  #### RISC contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Roku
+  #### Roku contain sub industries - 
+
+    - Wellness
+  - Leisure
+  - Lifestyle
+  - Asset Management
+  - Non Profit
+  - Compliance
+  - Architecture
+  - Real Time
+  - Children
+  - Funding Platform
+  - Women's
+  - Government
+  - Personalization
+  - Cannabis
+  - Casino
+  - Local
+  - Association
+  - Loyalty Programs
+  - Gift
+  - Elder Care
+  - Fleet Management
+  - Test and Measurement
+  - VoIP
+  - Recycling
+  - Wedding
+  - Water Purification
+  - Photo Sharing
+  - Geospatial
+  - CAD
+  - Gift Card
+  - Recreation
+  - GovTech
+  - Baby
+  - Classifieds
+  - Parenting
+  - Photo Editing
+  - Freelance
+  - Charity
+  - Rehabilitation
+  - Men's
+  - Family
+  - Assistive Technology
+  - Dating
+  - Freight Service
+  - Auctions
+  - Elderly
+  - Assisted Living
+  - Internet Radio
+  - Performing Arts
+  - Comics
+  - Politics
+  - Product Search
+  - Document Preparation
+  - Franchise
+  - SNS
+  - Optical Communication
+  - NFC
+  - Made to Order
+  - Landscaping
+  - DSP
+  - Vending and Concessions
+  - DRM
+  - GPU
+  - Religion
+  - Young Adults
+  - Quantified Self
+  - Tobacco
+  - Seafood
+  - Timber
+  - Timeshare
+  - Funerals
+  - Hunting
+  - LGBT
+  - Contests
+  - Adult
+  - Gift Registry
+  - Generation Y
+  - Generation Z
+  - Vertical Search
+  - Alumni
+  - Sex Tech
+  - Distillery
+  - Sex Industry
+  - Underserved Children
+  - Teenagers
+  - RISC
+  - Roku
+- Pet
+  #### Pet contain sub industries - 
+
+    - Pet
+  - Veterinary
+- Veterinary
+  #### Veterinary contain sub industries - 
+
+    - Pet
+  - Veterinary
+- Pharmaceutical
+  #### Pharmaceutical contain sub industries - 
+
+    - Pharmaceutical
+  - Biopharma
+  - Therapeutics
+- Biopharma
+  #### Biopharma contain sub industries - 
+
+    - Pharmaceutical
+  - Biopharma
+  - Therapeutics
+- Therapeutics
+  #### Therapeutics contain sub industries - 
+
+    - Pharmaceutical
+  - Biopharma
+  - Therapeutics
+- Nutraceutical
+  #### Nutraceutical contain sub industries - 
+
+    - Nutraceutical
+- Psychology
+  #### Psychology contain sub industries - 
+
+    - Psychology
+- Publishing
+  #### Publishing contain sub industries - 
+
+    - Publishing
+- Real Estate
+  #### Real Estate contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Rental
+  #### Rental contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Real Estate Investment
+  #### Real Estate Investment contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Vacation Rental
+  #### Vacation Rental contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Smart Home
+  #### Smart Home contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Commercial Real Estate
+  #### Commercial Real Estate contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Rental Property
+  #### Rental Property contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Property Development
+  #### Property Development contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Residential
+  #### Residential contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Smart Building
+  #### Smart Building contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Leasing
+  #### Leasing contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Intellectual Property
+  #### Intellectual Property contain sub industries - 
+
+    - Real Estate
+  - Rental
+  - Real Estate Investment
+  - Vacation Rental
+  - Smart Home
+  - Commercial Real Estate
+  - Rental Property
+  - Property Development
+  - Residential
+  - Smart Building
+  - Leasing
+  - Intellectual Property
+- Consulting
+  #### Consulting contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Marketing
+  #### Marketing contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Marketplace
+  #### Marketplace contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Marketing Automation
+  #### Marketing Automation contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Market Research
+  #### Market Research contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Risk Management
+  #### Risk Management contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Management Consulting
+  #### Management Consulting contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Advice
+  #### Advice contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Prediction Markets
+  #### Prediction Markets contain sub industries - 
+
+    - Consulting
+  - Marketing
+  - Marketplace
+  - Marketing Automation
+  - Market Research
+  - Risk Management
+  - Management Consulting
+  - Advice
+  - Prediction Markets
+- Sales
+  #### Sales contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Shopping
+  #### Shopping contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Retail Technology
+  #### Retail Technology contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Wholesale
+  #### Wholesale contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Sales Automation
+  #### Sales Automation contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Point of Sale
+  #### Point of Sale contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Direct Sales
+  #### Direct Sales contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Shopping Mall
+  #### Shopping Mall contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Group Buying
+  #### Group Buying contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Local Shopping
+  #### Local Shopping contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Flash Sale
+  #### Flash Sale contain sub industries - 
+
+    - Sales
+  - Shopping
+  - Retail Technology
+  - Wholesale
+  - Sales Automation
+  - Point of Sale
+  - Direct Sales
+  - Shopping Mall
+  - Group Buying
+  - Local Shopping
+  - Flash Sale
+- Security
+  #### Security contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Cyber Security
+  #### Cyber Security contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Network Security
+  #### Network Security contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Privacy
+  #### Privacy contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Public Safety
+  #### Public Safety contain sub industries - 
+
+    - Public Safety
+- Homeland Security
+  #### Homeland Security contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Physical Security
+  #### Physical Security contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Penetration Testing
+  #### Penetration Testing contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- National Security
+  #### National Security contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Military
+  #### Military contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Corrections Facilities
+  #### Corrections Facilities contain sub industries - 
+
+    - Security
+  - Cyber Security
+  - Network Security
+  - Privacy
+  - Homeland Security
+  - Physical Security
+  - Penetration Testing
+  - National Security
+  - Military
+  - Corrections Facilities
+- Small and Medium Businesses
+  #### Small and Medium Businesses contain sub industries - 
+
+    - Small and Medium Businesses
+  - Local Business
+- Local Business
+  #### Local Business contain sub industries - 
+
+    - Small and Medium Businesses
+  - Local Business
+- Emerging Markets
+  #### Emerging Markets contain sub industries - 
+
+    - Emerging Markets
+- Social Media
+  #### Social Media contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Media Marketing
+  #### Social Media Marketing contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Network
+  #### Social Network contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social
+  #### Social contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Media Advertising
+  #### Social Media Advertising contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Media Management
+  #### Social Media Management contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Entrepreneurship
+  #### Social Entrepreneurship contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Impact
+  #### Social Impact contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social News
+  #### Social News contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Private Social Networking
+  #### Private Social Networking contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Shopping
+  #### Social Shopping contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Facebook
+  #### Facebook contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Assistance
+  #### Social Assistance contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Social Bookmarking
+  #### Social Bookmarking contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Darknet
+  #### Darknet contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Twitter
+  #### Twitter contain sub industries - 
+
+    - Social Media
+  - Social Media Marketing
+  - Social Network
+  - Social
+  - Social Media Advertising
+  - Social Media Management
+  - Social Entrepreneurship
+  - Social Impact
+  - Social News
+  - Private Social Networking
+  - Social Shopping
+  - Facebook
+  - Social Assistance
+  - Social Bookmarking
+  - Darknet
+  - Twitter
+- Satellite Communication
+  #### Satellite Communication contain sub industries - 
+
+    - Satellite Communication
+  - Space Travel
+- Space Travel
+  #### Space Travel contain sub industries - 
+
+    - Satellite Communication
+  - Space Travel
+- Trading Platform
+  #### Trading Platform contain sub industries - 
+
+    - Trading Platform
+  - Stock Exchanges
+  - Trade Shows
+- Stock Exchanges
+  #### Stock Exchanges contain sub industries - 
+
+    - Trading Platform
+  - Stock Exchanges
+  - Trade Shows
+- Trade Shows
+  #### Trade Shows contain sub industries - 
+
+    - Trading Platform
+  - Stock Exchanges
+  - Trade Shows
+- Food Delivery
+  #### Food Delivery contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Delivery
+  #### Delivery contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Delivery Service
+  #### Delivery Service contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Public Transportation
+  #### Public Transportation contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Car Sharing
+  #### Car Sharing contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Marine Transportation
+  #### Marine Transportation contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Water Transportation
+  #### Water Transportation contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Food Trucks
+  #### Food Trucks contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Ferry Service
+  #### Ferry Service contain sub industries - 
+
+    - Food Delivery
+  - Delivery
+  - Delivery Service
+  - Public Transportation
+  - Car Sharing
+  - Marine Transportation
+  - Water Transportation
+  - Ferry Service
+  - Food Trucks
+- Travel
+  #### Travel contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Tourism
+  #### Tourism contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Travel Agency
+  #### Travel Agency contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Travel Accommodations
+  #### Travel Accommodations contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Adventure Travel
+  #### Adventure Travel contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Tour Operator
+  #### Tour Operator contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Business Travel
+  #### Business Travel contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Ride Sharing
+  #### Ride Sharing contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Last Mile Transportation
+  #### Last Mile Transportation contain sub industries - 
+
+    - Travel
+  - Tourism
+  - Travel Agency
+  - Travel Accommodations
+  - Adventure Travel
+  - Tour Operator
+  - Business Travel
+  - Ride Sharing
+  - Last Mile Transportation
+- Augmented Reality
+  #### Augmented Reality contain sub industries - 
+
+    - Augmented Reality
+  - Virtualization
+  - Simulation
+  - Virtual Assistant
+- Virtualization
+  #### Virtualization contain sub industries - 
+
+    - Augmented Reality
+  - Virtualization
+  - Simulation
+  - Virtual Assistant
+- Simulation
+  #### Simulation contain sub industries - 
+
+    - Augmented Reality
+  - Virtualization
+  - Simulation
+  - Virtual Assistant
+- Virtual Assistant
+  #### Virtual Assistant contain sub industries - 
+
+    - Augmented Reality
+  - Virtualization
+  - Simulation
+  - Virtual Assistant
+- Wealth Management
+  #### Wealth Management contain sub industries - 
+
+    - Wealth Management
+- Web Design
+  #### Web Design contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Web Development
+  #### Web Development contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Online Portals
+  #### Online Portals contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Web Apps
+  #### Web Apps contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Web Hosting
+  #### Web Hosting contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Mobile Advertising
+  #### Mobile Advertising contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- UX Design
+  #### UX Design contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Developer Tools
+  #### Developer Tools contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Developer Platform
+  #### Developer Platform contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Developer APIs
+  #### Developer APIs contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Open Source
+  #### Open Source contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Web Browsers
+  #### Web Browsers contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Application Performance Management
+  #### Application Performance Management contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Linux
+  #### Linux contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Desktop Apps
+  #### Desktop Apps contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Semantic Web
+  #### Semantic Web contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Google
+  #### Google contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Wood Processing
+  #### Wood Processing contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Presentations
+  #### Presentations contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Reading Apps
+  #### Reading Apps contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- App Discovery
+  #### App Discovery contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Application Specific Integrated Circuit (ASIC)
+  #### Application Specific Integrated Circuit (ASIC) contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- Virtual Desktop
+  #### Virtual Desktop contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+- WebOS
+  #### WebOS contain sub industries - 
+
+    - Web Design
+  - Web Development
+  - Online Portals
+  - Web Apps
+  - Web Hosting
+  - Mobile Advertising
+  - UX Design
+  - Developer Tools
+  - Developer Platform
+  - Developer APIs
+  - Open Source
+  - Web Browsers
+  - Application Performance Management
+  - Linux
+  - Desktop Apps
+  - Semantic Web
+  - Google
+  - Wood Processing
+  - Presentations
+  - Reading Apps
+  - App Discovery
+  - Application Specific Integrated Circuit (ASIC)
+  - Virtual Desktop
+  - WebOS
+
+
+
+
+
+
