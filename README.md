@@ -1,3 +1,5 @@
+
+
 # Zefyron Global Database Advance Search  Reference
 
 ##### Zefyron is a comprehensive global database designed to facilitate the search for startups and investors. The database offers a range of filter options, enabling users to refine their searches based on specific criteria. These filters include location, allowing users to narrow down results by country, state, and city. Additionally, users can filter based on industry and subindustry, funding status, total funding in USD, estimated revenue, founding date (with options for "founded after" and "founded before"), and the number of employees.
